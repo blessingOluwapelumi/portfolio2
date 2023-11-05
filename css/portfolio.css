@@ -20,7 +20,7 @@ html {
   /* --main-color-1: hsl(var(--hue-1), 100%, 60%); */
   --main-color-1: #20646d;
   /* --main-color-1: rgb(23,119,113); */
-  --main-color-dark-1: hsl(var(--hue-1), 69%, 50%);
+ --main-color-dark-1: #29808b;
   /* --main-color-2: hsl(var(--hue-2), 100%, 61%); */
     --main-color-2: #d0ec88;
   --main-color-dark-2: hsl(var(--hue-2), 82%, 55%);
