@@ -28,7 +28,7 @@ html {
 }
 
 body {
-  --bg-color: hsl(var(--hue-1), 100%, 97%);
+ --bg-color: #f5f8f8;
   --bg-color-1: hsl(var(--hue-1), 100%, 95%);
   --bg-color-2: #fff;
   --bg-color-3: hsl(var(--hue-1), 100%, 98%);
